@@ -1,4 +1,4 @@
-# IS353.P21_ Social Network
+# IS353.P21_ Rec_system_movie
 
 This repository is dedicated to storing and managing course projects related to social networks.
 
